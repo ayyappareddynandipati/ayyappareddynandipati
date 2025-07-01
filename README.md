@@ -87,10 +87,16 @@
 ## 🔗 Coding & Social Profiles
 
 ### 👨‍💻 Coding Platforms  
-[LeetCode](https://leetcode.com/ayyappareddynandipati) • [GeeksforGeeks](https://auth.geeksforgeeks.org/user/22a91a12b0) • [HackerRank](https://www.hackerrank.com/profile/ayyappareddy_n) • [CodeChef](https://www.codechef.com/users/ayyappa4512)
+<a href="https://leetcode.com/ayyappareddynandipati" target="_blank">LeetCode</a> • 
+<a href="https://auth.geeksforgeeks.org/user/22a91a12b0" target="_blank">GeeksforGeeks</a> • 
+<a href="https://www.hackerrank.com/profile/ayyappareddy_n" target="_blank">HackerRank</a> • 
+<a href="https://www.codechef.com/users/ayyappa4512" target="_blank">CodeChef</a>
 
 ### 🌐 Social & Professional  
-[Portfolio](https://ayyappareddy.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/ayyappareddynandipati) • [GitHub](https://github.com/ayyappareddynandipati) • [Instagram](https://instagram.com/ayyappareddynandipati)
+<a href="https://ayyappareddy.vercel.app/" target="_blank">Portfolio</a> • 
+<a href="https://www.linkedin.com/in/ayyappareddynandipati" target="_blank">LinkedIn</a> • 
+<a href="https://github.com/ayyappareddynandipati" target="_blank">GitHub</a> • 
+<a href="https://instagram.com/ayyappareddynandipati" target="_blank">Instagram</a>
 
 ---
 
