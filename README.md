@@ -112,13 +112,13 @@
 ## 📊 Stats & Activity
 
 ### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayyappareddynandipati&show_icons=true&theme=default)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayyappareddynandipati&show_icons=true&theme=default)](https://github.com/ayyappareddynandipati)
 
 ### 🔥 Contribution Streak  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=ayyappareddynandipati&theme=light&hide_border=false)
+[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=ayyappareddynandipati&theme=light&hide_border=false)](https://github.com/ayyappareddynandipati)
 
 ### 📚 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ayyappareddynandipati&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ayyappareddynandipati&layout=compact)](https://github.com/ayyappareddynandipati)
 
 ---
 
