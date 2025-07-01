@@ -126,7 +126,7 @@
 [![Ayyappa's LeetCode Stats](https://leetcard.jacoblin.cool/ayyappareddynandipati?ext=contest)](https://leetcode.com/ayyappareddynandipati)
 
 ### 💻 GeeksforGeeks Stats  
-[![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=22a91a12b0)](https://auth.geeksforgeeks.org/user/22a91a12b0)
+![GFG Stats](https://gfgstatscard.vercel.app/22a91a12b0?theme=light)(https://auth.geeksforgeeks.org/user/22a91a12b0)
 
 ---
 
