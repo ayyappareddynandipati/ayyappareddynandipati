@@ -69,8 +69,6 @@
 - ✅ **IT Specialist (HTML & CSS, Python, Java)** – *Pearson VUE*
 - 🎩 **System Administrator (RHCSA)** – *Red Hat*
 - 🛠️ **System Administrator(CSA) and Application Developer(CAD)** – *ServiceNow*
-
-- 🧮 **SQL Advanced** – *HackerRank*
 - ☕ **Java Fundamentals** – *edX*
 
 
@@ -104,12 +102,6 @@
 
 ---
 
-## 📄 Resume
-
-📥 [**Download My Resume**]()  
-📖 [**View My Resume (Google Doc)**]()
-
----
 
 ## 📊 Stats & Activity
 
