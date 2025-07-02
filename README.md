@@ -134,5 +134,8 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayyappareddynandipati)
 
 ---
+### 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayyappareddynandipati&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayyappareddynandipati&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
