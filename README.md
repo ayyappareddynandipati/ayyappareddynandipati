@@ -111,6 +111,15 @@
 
 ## 📊 Stats & Activity
 
+### 💡 LeetCode Stats  
+[![Ayyappa's LeetCode Stats](https://leetcard.jacoblin.cool/ayyappareddynandipati?ext=contest)](https://leetcode.com/ayyappareddynandipati)
+
+### 💻 GeeksforGeeks Stats  
+[![GFG Stats](https://gfgstatscard.vercel.app/22a91a12b0?theme=light)](https://auth.geeksforgeeks.org/user/22a91a12b0)
+
+---
+
+
 ### 📈 GitHub Stats  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayyappareddynandipati&show_icons=true&theme=default)](https://github.com/ayyappareddynandipati)
 
@@ -120,22 +129,13 @@
 ### 📚 Top Languages  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ayyappareddynandipati&layout=compact)](https://github.com/ayyappareddynandipati)
 
----
-
-### 💡 LeetCode Stats  
-[![Ayyappa's LeetCode Stats](https://leetcard.jacoblin.cool/ayyappareddynandipati?ext=contest)](https://leetcode.com/ayyappareddynandipati)
-
-### 💻 GeeksforGeeks Stats  
-[![GFG Stats](https://gfgstatscard.vercel.app/22a91a12b0?theme=light)](https://auth.geeksforgeeks.org/user/22a91a12b0)
-
----
 
 ### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayyappareddynandipati)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayyappareddynandipati)](https://github.com/ayyappareddynandipati)
 
----
+
 ### 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayyappareddynandipati&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayyappareddynandipati&theme=github)](https://github.com/ayyappareddynandipati)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayyappareddynandipati&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
