@@ -40,10 +40,11 @@
 
 ## 💼 Experience
 
-- 🖥️ **C Developer Intern - Technical Hub** – *Aug 2024 – Dec 2024*  
-• Developed and optimized programs in C for system-level operations and performance-critical tasks
-• Gained hands-on experience with pointers, memory management, file I/O, and modular programming
-• Collaborated in a team to build reusable C libraries for internal automation 
+- 🖥️ **Java Developer Intern - Technical Hub** – *Aug 2024 – Dec 2024*  
+• Built and optimized Java applications for backend and system-level operations
+• Worked with OOP principles, file handling, multithreading, and JDBC for database interaction
+• Developed reusable Java libraries to automate repetitive internal workflows
+• Collaborated in an Agile environment to design scalable backend components
 
 - 🌐 **Web Developer Intern – Edunet Foundation** – *May 2024 – June 2024*  
 • Designed and developed responsive web interfaces using HTML, CSS, and JavaScript
