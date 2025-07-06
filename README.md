@@ -106,9 +106,11 @@
 
 ## 📞 Contact Me
 
-- 📧 **Email**: ayyappareddynandipati@gmail.com  
-- 📱 **Phone** / WhatsApp: +91-7672053063  
-- 📍 **Location**: Piduguralla, Andhra Pradesh, India – *522413*
+- 📧 Email: [ayyappareddynandipati@gmail.com](mailto:ayyappareddynandipati@gmail.com)  
+- 📱 Phone: [📞 +91-7672053063](tel:+917672053063)  
+- 💬 WhatsApp: [Chat on WhatsApp](https://wa.me/917672053063)  
+- 📍 Address: Piduguralla, Andhra Pradesh, India – *Pin: 522413*
+
 
 ---
 
