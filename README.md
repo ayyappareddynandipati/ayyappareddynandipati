@@ -40,7 +40,7 @@
 
 ## 💼 Experience
 
-### 🖥️ Java Developer Intern – Technical Hub  *Aug 2024 – Dec 2024*  
+### 🖥️ Java Developer Intern – Technical Hub  (*Aug 2024 – Dec 2024*)
 - Built and optimized Java applications for backend and system-level operations  
 - Worked with OOP principles, file handling, multithreading, and JDBC for database interaction  
 - Developed reusable Java libraries to automate repetitive internal workflows  
@@ -48,7 +48,7 @@
 
 ---
 
-### 🌐 Web Developer Intern – Edunet Foundation  *May 2024 – June 2024*  
+### 🌐 Web Developer Intern – Edunet Foundation  (*May 2024 – June 2024*)  
 - Designed and developed responsive web interfaces using HTML, CSS, and JavaScript  
 - Focused on cross-browser compatibility and mobile responsiveness to enhance user experience  
 - Gained hands-on experience in debugging, UI/UX improvement, and real-world project deployment  
