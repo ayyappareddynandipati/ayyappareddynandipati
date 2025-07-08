@@ -48,7 +48,7 @@
 
 ---
 
-### 🌐 Web Developer Intern – Edunet Foundation  *(May 2024 – June 2024)*  
+### 🌐 Web Developer Intern – Edunet Foundation  *(June 2024 - July 2024)*  
 - Designed and developed responsive web interfaces using HTML, CSS, and JavaScript  
 - Focused on cross-browser compatibility and mobile responsiveness to enhance user experience  
 - Gained hands-on experience in debugging, UI/UX improvement, and real-world project deployment  
