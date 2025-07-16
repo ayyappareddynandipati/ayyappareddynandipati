@@ -31,7 +31,7 @@
 `VS Code` • `Git` • `GitHub` • `Vercel` • `ServiceNow` 
 
 ### 🗄️ Databases
-`SQL` • `Oracle SQL`
+`SQL` • `MongoDB`
 
 ### 💡 Core Computer Science
 `OOP` • `DSA` • `DBMS` • `Operating Systems` • `Computer Networks` • `Software Engineering`
