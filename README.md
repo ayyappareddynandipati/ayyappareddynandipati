@@ -100,7 +100,6 @@
 <a href="https://ayyappareddy.vercel.app/" target="_blank">Portfolio</a> • 
 <a href="https://www.linkedin.com/in/ayyappareddynandipati" target="_blank">LinkedIn</a> • 
 <a href="https://github.com/ayyappareddynandipati" target="_blank">GitHub</a> • 
-<a href="https://instagram.com/ayyappareddynandipati" target="_blank">Instagram</a>
 
 ---
 
