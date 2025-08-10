@@ -39,6 +39,14 @@
 ---
 
 ## 💼 Experience
+ 
+### 🎯 Frontend Developer Intern - Micro Information Technology Services *(May 2025 – Jun 2025)*
+– Collaborated with UI/UX designers to build pixel-perfect, responsive web pages using HTML5, CSS3,JavaScript, and React.
+– Built reusable React components to enhance UI interactivity and performance.
+– Integrated RESTful APIs to fetch and render real-time data, improving overall user experience.
+– Used Git for version control and participated in daily stand-ups within an Agile development workflow.
+
+---
 
 ### 🖥️ Java Developer Intern – Technical Hub  *(Aug 2024 – Dec 2024)*
 - Built and optimized Java applications for backend and system-level operations  
@@ -49,9 +57,10 @@
 ---
 
 ### 🌐 Web Developer Intern – Edunet Foundation  *(June 2024 - July 2024)*  
-- Designed and developed responsive web interfaces using HTML, CSS, and JavaScript  
-- Focused on cross-browser compatibility and mobile responsiveness to enhance user experience  
-- Gained hands-on experience in debugging, UI/UX improvement, and real-world project deployment  
+– Developed responsive, accessible UIs using HTML, CSS, and vanilla JavaScript.
+– Improved user interactivity through DOM manipulation and real-time event handling.
+– Used Git/GitHub for source control, branching, and pull request collaboration.
+– Worked in Agile sprints with design and development teams to deliver UI components. 
 
 
 ---
@@ -60,7 +69,7 @@
 
 | Project        | Tech Stack                 | Description |
 |----------------|----------------------------|-------------|
-| ♻️ **RebootEarth** | MERN Stack                 |  A responsive platform promoting plastic reuse and sustainability|
+| ♻️ **Resumify** | MERN Stack                 |  A responsive platform for AI-powered resume analysis and optimization.|
 | 👕 **Trendora**    | HTML, CSS, JS              | A sleek fashion website with dynamic UI and local storage |
 | 🔢 **2048 Game**   | HTML, CSS, JS              | A playable 2048 puzzle game with smooth animations |
 | 🛵 **Bikekart**     | HTML, CSS, SVG             | A stylish bike showroom website with responsive design and smooth UI |
@@ -73,7 +82,6 @@
 - ✅ **IT Specialist (HTML & CSS, Python, Java)** – *Pearson VUE*
 - 🎩 **System Administrator (RHCSA)** – *Red Hat*
 - 🛠️ **System Administrator(CSA) and Application Developer(CAD)** – *ServiceNow*
-- ☕ **Java Fundamentals** – *edX*
 
 
 ---
@@ -81,10 +89,17 @@
 ## 🏆 Achievements
 
 - 🧠 **1000+ Coding Problems Solved**  
-  Platforms: LeetCode, GeeksforGeeks, HackerRank, CodeChef
+  *Platforms:* `LeetCode, GeeksforGeeks, HackerRank, CodeChef`  
 
-- 🔥 Known for quick learning, leadership, and timely delivery  
-- 🌱 Currently learning: `ReactJS` and `Graph Algorithms in C++`
+- 🎯 **Volunteer Lead – Code Carnival 2024**  
+  `Led coordination and provided technical support for a campus-wide coding fest`  
+
+- 📢 **Campus Ambassador – Let’s Upgrade**  
+  `Engaged` **100+** `peers in tech upskilling and learning programs`  
+
+- 🔥 **Known for** `quick learning, leadership, and timely delivery`  
+
+- 🌱 **Currently Learning:** `ReactJS` | `Trees & Graph Algorithms in C++`
 
 ---
 
@@ -97,7 +112,7 @@
 <a href="https://www.codechef.com/users/ayyappa4512" target="_blank">CodeChef</a>
 
 ### 🌐 Social & Professional  
-<a href="https://ayyappareddy.vercel.app/" target="_blank">Portfolio</a> • 
+<a href="https://ayyappareddy.netlify.app/" target="_blank">Portfolio</a> • 
 <a href="https://www.linkedin.com/in/ayyappareddynandipati" target="_blank">LinkedIn</a> • 
 <a href="https://github.com/ayyappareddynandipati" target="_blank">GitHub</a>
 
