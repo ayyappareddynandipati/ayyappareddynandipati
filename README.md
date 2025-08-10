@@ -41,10 +41,10 @@
 ## 💼 Experience
  
 ### 🎯 Frontend Developer Intern - Micro Information Technology Services *(May 2025 – Jun 2025)*
-– Collaborated with UI/UX designers to build pixel-perfect, responsive web pages using HTML5, CSS3,JavaScript, and React.
-– Built reusable React components to enhance UI interactivity and performance.
-– Integrated RESTful APIs to fetch and render real-time data, improving overall user experience.
-– Used Git for version control and participated in daily stand-ups within an Agile development workflow.
+- Collaborated with UI/UX designers to build pixel-perfect, responsive web pages using HTML5, CSS3,JavaScript, and React.
+- Built reusable React components to enhance UI interactivity and performance.
+- Integrated RESTful APIs to fetch and render real-time data, improving overall user experience.
+- Used Git for version control and participated in daily stand-ups within an Agile development workflow.
 
 ---
 
@@ -57,10 +57,10 @@
 ---
 
 ### 🌐 Web Developer Intern – Edunet Foundation  *(June 2024 - July 2024)*  
-– Developed responsive, accessible UIs using HTML, CSS, and vanilla JavaScript.
-– Improved user interactivity through DOM manipulation and real-time event handling.
-– Used Git/GitHub for source control, branching, and pull request collaboration.
-– Worked in Agile sprints with design and development teams to deliver UI components. 
+- Developed responsive, accessible UIs using HTML, CSS, and vanilla JavaScript.
+- Improved user interactivity through DOM manipulation and real-time event handling.
+- Used Git/GitHub for source control, branching, and pull request collaboration.
+- Worked in Agile sprints with design and development teams to deliver UI components. 
 
 
 ---
