@@ -40,8 +40,8 @@
 
 ##  Experience
 
-###  Programming Intern (Trainer Support – Java, C, C++) – Technical Hub  *(Aug 2024 – Dec 2024)*
-- Delivered training support on Java, C, and C++ covering OOP, memory management, pointers, and coding standards. 
+###  Programming Intern (Trainer Support – C, C++) – Technical Hub  *(Aug 2024 – Dec 2024)*
+- Delivered training support on C, and C++ covering OOP, memory management, pointers, and coding standards. 
 - Mentored 200+ peers in debugging and problem-solving, improving success rate and reducing repetitive errors. 
 - Designed coding challenges, test cases, and documentation that streamlined training delivery.
 
@@ -62,10 +62,9 @@
 
 ## Certifications
 
+-  **System Administrator(CSA) and Application Developer(CAD)** – *ServiceNow*
 -  **IT Specialist (HTML & CSS, Python, Java)** – *Pearson VUE*
 -  **System Administrator (RHCSA)** – *Red Hat*
--  **System Administrator(CSA) and Application Developer(CAD)** – *ServiceNow*
-
 
 ---
 
