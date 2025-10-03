@@ -15,8 +15,7 @@
  Skilled in Java, Python, C++, SQL, HTML, CSS, JavaScript, React, ServiceNow  
  Strong understanding of OS, CN, DBMS, DSA, and OOPs  
  Experienced with Git & GitHub version control  
- Poem and quotation writer in my free time  
-
+ 
 ---
 
 ##  Skills & Tools
