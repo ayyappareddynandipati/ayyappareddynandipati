@@ -92,7 +92,6 @@
 
 ---
 
-
 ##  Stats & Activity
 
 ###  LeetCode Stats  
@@ -102,7 +101,6 @@
 [![GFG Stats](https://gfgstatscard.vercel.app/22a91a12b0?theme=light)](https://auth.geeksforgeeks.org/user/22a91a12b0)
 
 ---
-
 
 ###  GitHub Stats  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayyappareddynandipati&show_icons=true&theme=default)](https://github.com/ayyappareddynandipati)
