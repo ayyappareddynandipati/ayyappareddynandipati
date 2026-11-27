@@ -1,101 +1,43 @@
-# Hi, I'm Ayyappa Reddy 👋
+<h1 align="center">Ayyappa Reddy Nandipati</h1>
+<p align="center"><b>Full Stack Developer (MERN) · ServiceNow CSA &amp; CAD · Hyderabad</b></p>
 
-Frontend & ServiceNow Developer building scalable web apps and ITSM solutions.  
-Currently working as a Software Engineer Intern, actively preparing for full-time software development roles..
+<p align="center">
+I build full-stack web apps with React, Node.js and FastAPI, and ITSM solutions on ServiceNow. I'm a Software Engineer Intern at EverUptime Technologies and a 2026 B.Tech IT graduate.<br/>
+<b>Open to SDE-1, Full Stack and ServiceNow Developer roles.</b>
+</p>
 
----
+<p align="center">
+  <a href="https://ayyappareddy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ayyappareddynandipati"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ayyappareddynandipati@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-## 🚀 What I Do
+## Featured Projects
 
-- Build responsive applications using **React, JavaScript, HTML, CSS**
-- Develop and automate **ServiceNow ITSM workflows & platforms**
-- Work with **REST APIs, real-time data, and scalable UI systems**
-- Strong foundation in **DSA, OOP, DBMS, OS, CN**
+| Project | What it does | Stack | Live | Code |
+|---|---|---|---|---|
+| **SmartAttend** | Marks a classroom's attendance from one webcam frame using multi-face recognition, with Admin, Faculty and Student dashboards | React, FastAPI, SQLite, DeepFace, OpenCV, JWT | TODO <!-- TODO: add Vercel URL --> | [Repo](https://github.com/ayyappareddynandipati/SmartAttend) |
+| **Exam Seating Management System** | Web and mobile app for exam scheduling and seating, with dashboards for Admin, HOD, Faculty and Students | MongoDB, Express, React, Node.js, React Native | TODO <!-- TODO: add live URL --> | TODO <!-- TODO: add repo URL --> |
+| **Track My Issue** | ServiceNow helpdesk for campus IT issues: Incident, Problem and Change Management, dashboards and Virtual Agent | ServiceNow ITSM, Reports, Visual Task Boards | TODO <!-- TODO: add demo video URL --> | [Repo](https://github.com/ayyappareddynandipati/track-my-issue-servicenow) |
 
----
+## Tech Stack
 
-## 💼 Experience
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,python,html,css,react,nodejs,express,mongodb,mysql,sqlite,fastapi,git,github,vercel,linux" alt="JavaScript, Java, C++, Python, HTML, CSS, React, Node.js, Express, MongoDB, MySQL, SQLite, FastAPI, Git, GitHub, Vercel, Linux"/>
+</p>
 
-### 🧑‍💻 Software Engineer Intern — EverUptime Technologies *(Feb 2026 – Present)*
-- Built **responsive, pixel-perfect UI** using React, HTML, CSS, JavaScript  
-- Developed **reusable React components** for better performance & scalability  
-- Integrated **REST APIs** to handle real-time data  
-- Worked in **Agile environment**, using Git & daily stand-ups  
+## Certifications
 
----
+<p>
+  <img src="https://img.shields.io/badge/ServiceNow-Certified_System_Administrator-62D84E?style=flat-square&logo=servicenow&logoColor=white" alt="ServiceNow CSA"/>
+  <img src="https://img.shields.io/badge/ServiceNow-Certified_Application_Developer-62D84E?style=flat-square&logo=servicenow&logoColor=white" alt="ServiceNow CAD"/>
+  <img src="https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHCSA"/>
+</p>
 
-### 👨‍🏫 Programming Intern — Technical Hub *(Aug 2024 – Dec 2024)*
-- Mentored **300+ students** in C/C++ and problem solving  
-- Improved code quality via debugging & refactoring  
-- Designed coding challenges, test cases & assessments  
+## GitHub Activity
 
----
-
-## 🔥 Featured Projects
-
-### 🧾 Track My Issue — ServiceNow ITSM Platform
-- Built **Incident, Problem & Change workflows** using ServiceNow  
-- Designed **custom tables, forms, SLAs & dashboards**  
-- Integrated **Virtual Agent for automation & support**  
-- Followed **ITIL practices** for service efficiency  
-
-👉 *Enterprise-grade workflow automation project*
-
----
-
-### 🏫 Exam Seating Management System (MERN + React Native)
-- Built **web + mobile system** for exam scheduling & seating  
-- Reduced **manual work by 80%** through automation  
-- Implemented **role-based dashboards (Admin, HOD, Faculty, Students)**  
-
-👉 *Full-stack system with real-world impact*
-
----
-
-## 🧠 Skills
-
-**Languages:** C++, Java, Python, JavaScript  
-**Frontend:** React, HTML, CSS  
-**Platforms:** ServiceNow (ITSM, Virtual Agent, Workflows)  
-**Tools:** Git, GitHub, Vercel  
-**Database:** MySQL  
-**Core:** DSA, OOP, DBMS, OS, CN  
-
----
-
-## 🏆 Achievements
-
-- 🎯 Mentored **300+ students** in programming & problem solving  
-- 🏆 Volunteer Lead – *Code Carnival 2024*  
-- 🚀 Campus Ambassador – *Let’s Upgrade*  
-
----
-
-## 🎓 Education
-
-**B.Tech – Information Technology**  
-Aditya Engineering College *(2022 – 2026)*  
-CGPA: **8.35/10**
-
----
-
-## 🏅 Certifications
-
-- ServiceNow **CSA & CAD**
-- **RHCSA** – Red Hat Certified System Administrator  
-- IT Specialist – Python, Java, HTML & CSS  
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 Portfolio: https://ayyappareddy.netlify.app  
-- 🔗 LinkedIn: https://www.linkedin.com/in/ayyappareddynandipati  
-- 📧 Email: ayyappareddynandipati@gmail.com  
-
----
-
-## ⚡ Quick Note
-
-I build **real-world projects that solve actual problems** — not just tutorials.  
-Focused on growth, consistency, and writing clean, scalable code.
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ayyappareddynandipati&show_icons=true&hide_border=true&hide_title=true&count_private=true" alt="GitHub stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyappareddynandipati&layout=compact&hide_border=true&langs_count=6" alt="Top languages"/>
+  <img height="150" src="https://streak-stats.demolab.com?user=ayyappareddynandipati&hide_border=true" alt="GitHub streak"/>
+</p>
